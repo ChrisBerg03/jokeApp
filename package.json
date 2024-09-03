@@ -1,0 +1,20 @@
+{
+  "name": "jokeapp",
+  "version": "1.0.0",
+  "description": "a joke app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jokes",
+    "and",
+    "npm"
+  ],
+  "author": "Chris",
+  "license": "MIT",
+  "dependencies": {
+    "chart.js": "^4.4.4",
+    "lodash": "^4.17.21"
+  }
+}
